@@ -6,8 +6,8 @@ $GLOBALS['config'] = array(
     'mysql' => array(
         'host'      => '127.0.0.1',
         'username'  => 'root',
-        'password'  => 'vex1999',
-        'db'        => 'supportlabs_accounts',
+        'password'  => 'your password',
+        'db'        => 'your database',
 		'charset' => 'utf8mb4',
     ),
     'remember' => array(
